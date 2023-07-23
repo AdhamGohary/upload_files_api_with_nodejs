@@ -1,4 +1,4 @@
-const FileModel = require("E:/programs/node.js_projects/upload_files_api/model/fileModel");
+const FileModel = require("E:/programs/node.js_projects/upload_files_api_with_nodejs/model/fileModel");
 
 const add = async (req, res) => {
   const filePath = req.body.filePath;

@@ -1,6 +1,6 @@
 const router = require("express").Router();
-const fileControllers = require("E:/programs/node.js_projects/upload_files_api/controllers/fileControllers");
-const FileModel = require("E:/programs/node.js_projects/upload_files_api/model/fileModel");
+const fileControllers = require("E:/programs/node.js_projects/upload_files_api_with_nodejs/controllers/fileControllers");
+const FileModel = require("E:/programs/node.js_projects/upload_files_api_with_nodejs/model/fileModel");
 // const multer = require("multer");
 // const upload = multer({ dest: "uploads/" });
 
